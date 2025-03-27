@@ -1,0 +1,110 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/scenes/questions/homepage1.unity
+    guid: 8a6fc7865039c0249b6a13046b29d613
+  - enabled: 1
+    path: Assets/scenes/questions/el.unity
+    guid: 24d86cfce9b99904eb1d807772ad1923
+  - enabled: 1
+    path: Assets/scenes/questions/gameover1.unity
+    guid: 67187ad189bffe046a3f56185c59958d
+  - enabled: 1
+    path: Assets/scenes/questions/question1.unity
+    guid: 489b0a34a854a124ca070cdc864ded4b
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/scenes/questions/el1.unity
+    guid: 9803352a6e3c7ed4cbeeec0e16a482d2
+  - enabled: 1
+    path: Assets/scenes/questions/el2.unity
+    guid: 222e702a33023e44997721a8294a834c
+  - enabled: 1
+    path: Assets/scenes/questions/question2.unity
+    guid: 32fd8a6dd4f8a9548b659c4eef9eddd5
+  - enabled: 1
+    path: Assets/scenes/questions/question3.unity
+    guid: 902c2fa52d5a53542a0b1bb6e94a865b
+  - enabled: 1
+    path: Assets/scenes/questions/question4.unity
+    guid: d1d40ee8623556349977018e71259c95
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/scenes/questions/el3.unity
+    guid: 54d7d69c773637d4db0f13e79ba5e03a
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/scenes/questions/el4.unity
+    guid: 47912cf753820eb4d8c0b3caa6c20cee
+  - enabled: 1
+    path: Assets/scenes/questions/question5.unity
+    guid: ae5cc73fefd5ad4439fd6cbe7b832487
+  - enabled: 1
+    path: Assets/scenes/questions/el5.unity
+    guid: b0e2cb6b194f5264a968069485dcff4e
+  - enabled: 1
+    path: Assets/scenes/questions/question6.unity
+    guid: 7b59779381293bf4f89837b87d6f5c58
+  - enabled: 1
+    path: Assets/scenes/questions/el6.unity
+    guid: cb5a94f1aa3838c4fbadd5944bbfa31c
+  - enabled: 1
+    path: Assets/scenes/questions/question7.unity
+    guid: dd35a5c8d99b5ee4289cee504de6ff01
+  - enabled: 1
+    path: Assets/scenes/questions/el10.unity
+    guid: d098e4d4fb3ef00488fd4bcb27888ace
+  - enabled: 1
+    path: Assets/scenes/questions/el11.unity
+    guid: bce0657d1dd06dc4bad60404497ce15d
+  - enabled: 1
+    path: Assets/scenes/questions/question8.unity
+    guid: 0081dba77715be34985b0bf8f49d4b75
+  - enabled: 1
+    path: Assets/scenes/questions/el6 1.unity
+    guid: 9620ed8d8c9ae0246a2744fd51c23d77
+  - enabled: 1
+    path: Assets/scenes/questions/question11.unity
+    guid: 61b7b89c6f469e9488940989a0e9797c
+  - enabled: 1
+    path: Assets/scenes/questions/question9.unity
+    guid: 1d56993a35066ed499221ec464d21fc2
+  - enabled: 1
+    path: Assets/scenes/questions/question10.unity
+    guid: bd26df7086c1b994e851002d7bcabae9
+  - enabled: 1
+    path: Assets/scenes/questions/question12.unity
+    guid: c3ee650984a9e4d4e923f4ed1b8a5394
+  - enabled: 1
+    path: Assets/scenes/questions/el12.unity
+    guid: 873fc1d0f61afa94893527b90cc74e36
+  - enabled: 1
+    path: Assets/scenes/questions/el13.unity
+    guid: bc7fb0d3af4149f4497d15e0c147c8f4
+  - enabled: 1
+    path: Assets/scenes/questions/el14.unity
+    guid: 1cebf681a2e9f414e940f3e85deb3942
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/scenes/questions/el15.unity
+    guid: 66083570aa3a4ac4d9c0afc4751ac30a
+  m_configObjects: {}
