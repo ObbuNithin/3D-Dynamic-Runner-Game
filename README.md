@@ -32,7 +32,7 @@ This is a project built to overcome the general quiz systems through a fun 3d ru
 ### Steps
 1. Clone the repository
    ```bash
-   git clone https://github.com/[YourUsername]/Infinite3DRunnerQuizGame.git
+   git clone https://github.com/ObbuNithin/3D-Dynamic-Runner-Game
    ```
 2. Open the project in Unity
 3. Ensure all dependencies are imported
